@@ -9,4 +9,7 @@
 5 - O que é um Pull?
     R: Puxa os arquivos do respositório master.
 6 - O que é branch?
-    R: Uma ramificação do seu projeto principal onde você pode estar fazendo alterações sem afetatalo.                    
+    R: Uma ramificação do seu projeto principal onde você pode estar fazendo alterações sem afetatalo.
+7 - O que é pull request?
+    R: Um pedido para que o projeto pricipal puxe as suas atualizações.
+                            
