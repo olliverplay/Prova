@@ -12,4 +12,5 @@
     R: Uma ramificação do seu projeto principal onde você pode estar fazendo alterações sem afetatalo.
 7 - O que é pull request?
     R: Um pedido para que o projeto pricipal puxe as suas atualizações.
-                            
+8 - O que é fork?
+    R: Uma cópia do projeto pricipal. Tabem possibilita copiar qualquer projeto que estaja público                        
