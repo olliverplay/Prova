@@ -5,4 +5,6 @@
 3 - O que é um repositório?
     R: Um local onde você vai organizar o seu projeto, ou seja um lugar onde você guarda suas coisas.
 4 - O que é merge?
-    R: É a junção da branch criada anteriormente para a branch main.            
+    R: É a junção da branch criada anteriormente para a branch main.
+5 - O que é um Pull?
+    R: Puxa os arquivos do respositório master.                
